@@ -1,4 +1,4 @@
-
+# Project developed to the SCTI 2022 React Course
 ## Available Scripts
 
 In the project directory, you can run:
